@@ -1,4 +1,4 @@
-package Javastudy;
+package Javastudy.javaUtilExam;
 
 public class BoxExam {
     public static void main(String[] args) {
@@ -58,6 +58,7 @@ public class BoxExam {
         //설정함으로써 다양한  타입의 클래스를 이용하는 클래스를 만들어 낼 수 있음
         // 제너릭을 사용하는 대표적인 클래스는 컬렉션 프레임워크와 관련된
         // 클래스들이 있음 
+        
 
     }
     

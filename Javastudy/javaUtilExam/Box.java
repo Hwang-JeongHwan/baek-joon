@@ -1,4 +1,4 @@
-package Javastudy;
+package Javastudy.javaUtilExam;
 
 // public class Box {
 //     private Object obj;
