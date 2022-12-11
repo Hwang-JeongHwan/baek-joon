@@ -7,8 +7,8 @@ public class AccessObjExam extends AccessObj {
         AccessObjExam obj = new AccessObjExam();
         System.out.println(obj.p); // public
         System.out.println(obj.p2); // protected
-        System.out.println(obj.k); // defalut 
-        System.out.println(obj.i); // i는 private라 접근 불가
+       // System.out.println(obj.k); // defalut 
+       // System.out.println(obj.i); // i는 private라 접근 불가
         // 다른 패키지로 이동시
         // public을 제외한 모든 접근제한자에서 오류를 발생
         // 만약 AccessObj Exam이 AccessObj를 상속하고 있다면

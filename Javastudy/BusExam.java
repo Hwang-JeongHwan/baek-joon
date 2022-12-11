@@ -51,10 +51,10 @@ public class BusExam {
         busExam.fill(suv);
         
         //gasStation에서 truck에 기름을 넣습니다.
-        gasStation.fill(truck);
+      //  gasStation.fill(truck);
         
         //gasStation에서 bus에 기름을 넣습니다.
-        gasStation.fill(bus);
+       // gasStation.fill(bus);
         
     }
     // public void fill(Car car){
