@@ -40,3 +40,8 @@ public class MyThread1 extends Thread {
 
     
 }
+/*
+ * 상속과 인터페이스 구현은 동시에 가능합니다. 
+ * Bus클래스에서 상속을 명시하는 extends Car뒤에 
+ * implements Runnable이라고 적으면 됩니다.
+ */
